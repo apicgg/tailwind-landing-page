@@ -1,0 +1,15 @@
+{
+  "name": "tailwind-landing",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 5500",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.1.7",
+    "vite": "^3.0.0"
+  }
+}
