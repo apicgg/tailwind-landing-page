@@ -5,11 +5,11 @@ This project is a fork from [bradtraversy/tailwind-landing-page](https://github.
 ### Install dependencies
 
 ```bash
-yarn
+npm install
 ```
 
 ### Run app in development
 
 ```bash
-yarn start
+npm start
 ```
